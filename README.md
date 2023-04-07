@@ -33,7 +33,7 @@ yang di kontrol melalui bot telegram
   * 1 Kabel USB
   
 # Board Schematic
-![boardschematic2](https://user-images.githubusercontent.com/74332636/227576220-27b3dbbf-c84d-4647-8d6d-c3d96d26f52d.jpeg)
+![boardschematic2](https://user-images.githubusercontent.com/74332636/230623109-68e449d4-8d53-40d5-a198-81caea8862be.jpeg)
 <p align="center">
   <img src="boardschematic2.jpeg" width="350">
 </p>
